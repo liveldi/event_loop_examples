@@ -37,4 +37,3 @@ console.log('console-last');
 
 
 // Print
-// console-start promise-1 console-last my-interval set-timeout-1  set-timeout-2 resolve-promise-1 my-interval set-timeout-3

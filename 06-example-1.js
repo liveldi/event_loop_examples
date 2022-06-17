@@ -35,4 +35,3 @@ console.log('last-console');
 
 
 // Print
-// my-promise-1 last-console nextTick-1 nextTick-2 'then-1' 'then-2' text-open 'my-promise-2' open-finish then-3 timer

@@ -16,10 +16,8 @@ const id = setInterval(bar, 1000);
 clearInterval(id);
 
 // call stack 
-
-
+// 02-message-queue();
 
 // message queue (macrotasks queue)
 
-
-// foo baz bar
+// Print

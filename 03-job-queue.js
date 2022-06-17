@@ -30,4 +30,3 @@ foo();
 // message queue (macrotasks queue)
 
 
-// foo promise-start baz 'should be right after baz, before bar' test bar

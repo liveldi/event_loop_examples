@@ -35,4 +35,3 @@ start();
 
 
 // Print
-// start foo foo-2 bar zoo baz

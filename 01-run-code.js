@@ -3,6 +3,10 @@ const bar = () => console.log('bar');
 const baz = () => console.log('baz');
 
 const foo = () => {
+    for(let i = 0; i < 10; i++) {
+        console.log(i)
+    }
+
     console.log('foo');
     bar();
     baz();
@@ -10,22 +14,17 @@ const foo = () => {
 
 foo();
 
-// for (let i = 0; i < Infinity; i++) {
-//     console.log(111)
-// }
+console.log('me')
 
-// console.log('333')
+/**
+ * Execution context is defined as the enviroment in which
+ * the JavaScript code is executed. Enviroment: this, variables, objects
+ * and function JavaScript code has access to at a particual rime.
+ */
 
-// function f () {
-//     console.log('f was called');
-//     return f();
-// }
-
-// f();
+// Call Stack
+// 01-run-code()
 
 
-// call stack
-
-// foo bar baz
-
+// Print
 
